@@ -16,7 +16,7 @@ using System.Collections.Generic;
 
 #endregion
 
-namespace MonogameInWinformsExample
+namespace Monogame2DEditor.Source
 {
 	public class ServiceContainer : IServiceProvider
 	{

@@ -15,6 +15,7 @@ using System;
 using System.Drawing;
 using System.Windows.Forms;
 using Microsoft.Xna.Framework.Graphics;
+using Monogame2DEditor.Source;
 
 #endregion
 

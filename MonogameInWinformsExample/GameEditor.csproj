@@ -54,6 +54,7 @@
     <Compile Include="Source\Animation\Animation.cs" />
     <Compile Include="Source\Animation\AnimationHandler.cs" />
     <Compile Include="Source\Animation\TextureReel.cs" />
+    <Compile Include="Source\Camera.cs" />
     <Compile Include="Source\Editor.cs">
       <SubType>Component</SubType>
     </Compile>
@@ -75,6 +76,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Source\Scene.cs" />
     <Compile Include="Source\ServiceContainer.cs" />
+    <Compile Include="Source\Texture.cs" />
     <EmbeddedResource Include="Source\Forms\frm_main.resx">
       <DependentUpon>frm_main.cs</DependentUpon>
     </EmbeddedResource>

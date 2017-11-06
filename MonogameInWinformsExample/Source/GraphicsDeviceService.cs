@@ -19,7 +19,7 @@ using Microsoft.Xna.Framework.Graphics;
 
 #pragma warning disable 67
 
-namespace MonogameInWinformsExample
+namespace Monogame2DEditor.Source
 {
 	internal class GraphicsDeviceService : IGraphicsDeviceService
 	{

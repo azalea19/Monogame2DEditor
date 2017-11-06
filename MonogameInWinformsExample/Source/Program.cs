@@ -1,10 +1,11 @@
-﻿using System;
+﻿using MonogameInWinformsExample;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MonogameInWinformsExample
+namespace Monogame2DEditor.Source
 {
     static class Program
     {

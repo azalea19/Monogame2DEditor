@@ -8,5 +8,7 @@ namespace Monogame2DEditor.Source
 {
     class Scene
     {
+        
+
     }
 }

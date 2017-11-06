@@ -1,4 +1,6 @@
-﻿namespace MonogameInWinformsExample
+﻿using Monogame2DEditor.Source;
+
+namespace MonogameInWinformsExample
 {
     partial class frm_main
     {
@@ -28,7 +30,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.editorContext = new MonogameInWinformsExample.Editor();
+            this.editorContext = new Editor();
             this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
