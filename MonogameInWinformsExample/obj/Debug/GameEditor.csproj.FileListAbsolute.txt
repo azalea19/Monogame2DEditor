@@ -35,6 +35,6 @@ D:\UserFiles\Desktop\Monogame2DEditor\MonogameInWinformsExample\bin\Debug\SharpD
 D:\UserFiles\Desktop\Monogame2DEditor\MonogameInWinformsExample\bin\Debug\MonoGame.Framework.xml
 D:\UserFiles\Desktop\Monogame2DEditor\MonogameInWinformsExample\bin\Debug\MonoGame.Framework.Net.xml
 D:\UserFiles\Desktop\Monogame2DEditor\MonogameInWinformsExample\obj\Debug\GameEditor.csprojResolveAssemblyReference.cache
-D:\UserFiles\Desktop\Monogame2DEditor\MonogameInWinformsExample\obj\Debug\MonogameInWinformsExample.Form1.resources
 D:\UserFiles\Desktop\Monogame2DEditor\MonogameInWinformsExample\obj\Debug\Monogame2DEditor.Properties.Resources.resources
 D:\UserFiles\Desktop\Monogame2DEditor\MonogameInWinformsExample\obj\Debug\GameEditor.csproj.GenerateResource.Cache
+D:\UserFiles\Desktop\Monogame2DEditor\MonogameInWinformsExample\obj\Debug\MonogameInWinformsExample.frm_main.resources

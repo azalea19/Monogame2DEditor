@@ -1,6 +1,6 @@
 ﻿namespace MonogameInWinformsExample
 {
-    partial class Form1
+    partial class frm_main
     {
         /// <summary>
         /// Required designer variable.
@@ -28,18 +28,18 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.editor1 = new MonogameInWinformsExample.Editor();
+            this.editorContext = new MonogameInWinformsExample.Editor();
             this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // editor1
+            // editorContext
             // 
-            this.editor1.Location = new System.Drawing.Point(12, 26);
-            this.editor1.Name = "editor1";
-            this.editor1.Size = new System.Drawing.Size(504, 405);
-            this.editor1.TabIndex = 0;
-            this.editor1.Text = "editor1";
-            this.editor1.Click += new System.EventHandler(this.editor1_Click);
+            this.editorContext.Location = new System.Drawing.Point(66, 12);
+            this.editorContext.Name = "editorContext";
+            this.editorContext.Size = new System.Drawing.Size(504, 405);
+            this.editorContext.TabIndex = 0;
+            this.editorContext.Text = "editorContext";
+            this.editorContext.Click += new System.EventHandler(this.editor1_Click);
             // 
             // button1
             // 
@@ -51,22 +51,23 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // Form1
+            // frm_main
             // 
+            this.AcceptButton = this.button1;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(645, 505);
             this.Controls.Add(this.button1);
-            this.Controls.Add(this.editor1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Controls.Add(this.editorContext);
+            this.Name = "frm_main";
+            this.Text = "Main";
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private Editor editor1;
+        private Editor editorContext;
         private System.Windows.Forms.Button button1;
     }
 }
